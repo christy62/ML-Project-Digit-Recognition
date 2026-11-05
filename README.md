@@ -29,6 +29,4 @@ The model was evaluated using a separate test set. A confusion matrix was also g
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
-
+![Confusion Matrix](confusion-matrix-ml-digits.png)
